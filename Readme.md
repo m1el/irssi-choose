@@ -1,4 +1,4 @@
-Choose - irssi script for hesitating people
+Choose - script for hesitating people
 ==============
 
 Usage
