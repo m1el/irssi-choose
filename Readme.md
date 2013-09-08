@@ -5,6 +5,7 @@ Usage
 -----
 
 copy dir to ~/.irssi/scripts
+
     /script load irssi-choose/choose.pl
 
 Commands
